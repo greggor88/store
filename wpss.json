@@ -1,1 +1,7 @@
-{"super_user_email":"spencer@websupportdept.com"}
+{"email_to":"me@spencerbrown.website",
+"send_subject":"yes",
+"send_date":"no",
+"send_ip":"yes",
+"send_user_agent":"no",
+"send_http_referrer":"no",
+"send_user_email":"no"}
