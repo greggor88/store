@@ -1,7 +1,7 @@
 {"email_to":"me@spencerbrown.website",
 "send_subject":"yes",
-"send_date":"no",
+"send_date":"yes",
 "send_ip":"yes",
-"send_user_agent":"no",
-"send_http_referrer":"no",
-"send_user_email":"no"}
+"send_user_agent":"yes",
+"send_http_referrer":"yes",
+"send_user_email":"yes"}
